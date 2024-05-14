@@ -12,7 +12,7 @@ This project requires a platform that can run java.
 When you run this project a menu offering several features will appear.
 
 Features:
-1-generate and display the encoding of a .txt file by creating a Hufmman tree.
+1-generate and display the encoding of a .txt file by creating a Hufmman tree. \n
 2-display the Huffman tree created in the previous feature (therefore requires having already executed the 1st feature)
 3-display the characters of the file and their binary codes generated thanks to the Huffman tree (therefore requires having already executed the 1st feature)
 4-decode the code generated thanks to the Huffman tree created previously (therefore requires having already executed the 1st feature)
